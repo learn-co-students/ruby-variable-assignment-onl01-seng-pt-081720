@@ -27,9 +27,9 @@ Finished in 0.00075 seconds (files took 0.0839 seconds to load)
 1 example, 1 failure
 ```
 
-To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
 
-## Resources
+To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly
+greeting= "Hello World"
 * [Learn to Program](https://pine.fm/LearnToProgram/chap_03.html)
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
